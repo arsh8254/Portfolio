@@ -34,7 +34,7 @@ $(document).ready(function() {
         "Web Developer.",
         "Traveller.",
         "UI Designer.",
-        "Competitive Programmer."
+        "Programmer."
       ],
       typeSpeed: 100,
       backSpeed: 60,
@@ -47,7 +47,7 @@ $(document).ready(function() {
         "Web Developer.",
         "Traveller.",
         "UI Designer.",
-        "Competitive Programmer."
+        "Programmer."
       ],
       typeSpeed: 100,
       backSpeed: 60,
