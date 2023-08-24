@@ -31,9 +31,9 @@ $(document).ready(function() {
     var typed = new Typed(".typing", {
       strings: [
         "Web Developer.",
-        "Traveller.",
         "UI Designer.",
-        "Programmer."
+        "Programmer.",
+        "Traveller."
       ],
       typeSpeed: 100,
       backSpeed: 60,
@@ -43,9 +43,9 @@ $(document).ready(function() {
     var typed = new Typed(".typing-2", {
       strings: [
         "Web Developer.",
-        "Traveller.",
         "UI Designer.",
-        "Programmer."
+        "Programmer.",
+        "Traveller."
       ],
       typeSpeed: 100,
       backSpeed: 60,
