@@ -30,7 +30,7 @@ $(document).ready(function() {
   
     var typed = new Typed(".typing", {
       strings: [
-        "Web Developer.",
+        "Java Developer.",
         "UI Designer.",
         "Programmer.",
         "Traveller."
@@ -42,7 +42,7 @@ $(document).ready(function() {
   
     var typed = new Typed(".typing-2", {
       strings: [
-        "Web Developer.",
+        "Java Developer.",
         "UI Designer.",
         "Programmer.",
         "Traveller."
