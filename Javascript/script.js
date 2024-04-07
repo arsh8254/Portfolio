@@ -30,8 +30,8 @@ $(document).ready(function() {
   
     var typed = new Typed(".typing", {
       strings: [
-        "Java Developer.",
-        "UI Designer.",
+        "Web Developer.",
+        "Tech Enthusiast.",
         "Programmer.",
         "Traveller."
       ],
@@ -42,8 +42,8 @@ $(document).ready(function() {
   
     var typed = new Typed(".typing-2", {
       strings: [
-        "Java Developer.",
-        "UI Designer.",
+        "Web Developer.",
+        "Tech Enthusiast.",
         "Programmer.",
         "Traveller."
       ],
